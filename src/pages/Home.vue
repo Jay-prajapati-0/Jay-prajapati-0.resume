@@ -60,8 +60,8 @@ const projects = [
   {
     name: "Meldai Seeds Website",
     description: "A modern agricultural website for showcasing products and services.",
-    technologies: ["Vue.js", "Express.js", "TailwindCSS"],
-    image: "/img/Site2.png",
+    technologies: ["Vue.js", "Express.js", "TailwindCSS", "google analytics", "Apis integration", "QR code generator"],
+    image: "/img/Site4.png",
     url: "https://meldaiseeds.com"
   },
   {
