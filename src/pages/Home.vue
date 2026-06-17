@@ -54,7 +54,7 @@ const projects = [
     name: "ShreejiSolar Website",
     description: "A responsive corporate website for a solar energy company, featuring product showcases and contact forms.",
     technologies: ["Vue.js", "Node.js", "TailwindCSS"],
-    image: "/img/Site1.png",      // use absolute/static public path or import in component if using bundler
+    image: "/img/Site5.png",      // use absolute/static public path or import in component if using bundler
     url: "https://shreejisolar.com/"
   },
   {
