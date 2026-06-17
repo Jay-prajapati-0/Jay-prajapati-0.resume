@@ -51,11 +51,25 @@ const projects = [
     url: "https://www.pollzip.com/"
   },
   {
-    name: "Spotify Clone App",
-    description: "A modern restaurant website with online reservation system, menu management, and customer reviews.",
-    technologies: ["HTML5", "CSS3", "JavaScript", "PHP", "MySQL"],
-    image: "/img/Site3.png"
-    // url omitted -> card will not open external link
+    name: "ShreejiSolar Website",
+    description: "A responsive corporate website for a solar energy company, featuring product showcases and contact forms.",
+    technologies: ["Vue.js", "Node.js", "TailwindCSS"],
+    image: "/img/Site1.png",      // use absolute/static public path or import in component if using bundler
+    url: "https://shreejisolar.com/"
+  },
+  {
+    name: "Meldai Seeds Website",
+    description: "A modern agricultural website for showcasing products and services.",
+    technologies: ["Vue.js", "Express.js", "TailwindCSS"],
+    image: "/img/Site2.png",
+    url: "https://meldaiseeds.com"
+  },
+  {
+    name: "Writarai App",
+    description: "An AI-powered writing assistant that helps users generate content, improve grammar, and enhance creativity.",
+    technologies: ["Vue.js", "Express.js", "TailwindCSS"],
+    image: "/img/Site3.1.avif",
+    url: "https://writarai.com/"
   }
 ];
 
